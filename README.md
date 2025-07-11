@@ -10,6 +10,9 @@ This is a developing platform for analysis of genotype data and GWAS summary sta
 ## 🔧 Features
 - Mainly for meta-analysis on neurodegenerative disorders
 
+## 🧠 Concept
+
+
 ## 📦 Usage
 Clone the repository:
 
