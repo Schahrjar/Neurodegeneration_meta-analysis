@@ -1,0 +1,8 @@
+{
+  "input_dir": "../neurodegeneration/summary_statistics/meta-analysis/cognitive-motor/SumStats/",
+  "metadata_file": "../neurodegeneration/summary_statistics/meta-analysis/cognitive-motor/SumStats/sumstats_harmonised-columns.json",
+  "sample_size_meta_file": "../neurodegeneration/summary_statistics/meta-analysis/cognitive-motor/sample_size_meta.json",
+  "output_dir": "../neurodegeneration/summary_statistics/meta-analysis/cognitive-motor/SumStats/harmonised",
+  "log_file": "../neurodegeneration/summary_statistics/meta-analysis/cognitive-motor/SumStats/harmonised/gwaslab_processing.log",
+  "genome_build": "38"
+}
