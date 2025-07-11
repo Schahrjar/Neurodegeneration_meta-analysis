@@ -17,7 +17,7 @@ import logging
 from datetime import datetime
 
 # --- Load configuration from JSON ---
-with open("../harmonisatoin/harmonisation_column-check_config.json", "r", encoding="utf-8") as cfg:
+with open("../harmonisatoin/harmonisation_metadata_config.json", "r", encoding="utf-8") as cfg:
     config = json.load(cfg)
 
 data_dir = config["data_dir"]
