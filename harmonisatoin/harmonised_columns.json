@@ -1,0 +1,12 @@
+{
+  "MARKERNAME": ["hm_rsid", "SNP", "variant_id"],
+  "CHROMOSOME": ["hm_chrom", "CHR", "chromosome"],
+  "POSITION": ["hm_pos", "BP", "base_pair_location"],
+  "EA": ["hm_effect_allele", "A1", "effect_allele"],
+  "NEA": ["hm_other_allele", "A2", "other_allele"],
+  "EAF": ["hm_effect_allele_frequency", "FRQ", "effect_allele_frequency"],
+  "N": ["N", "n"],
+  "BETA": ["hm_beta", "beta", "BETA"],
+  "P": ["p_value", "P", "p"],
+  "SE": ["standard_error", "SE"]
+}
