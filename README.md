@@ -1,7 +1,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/Schahrjar/Neurodegeneration_meta-analysis)](https://github.com/Schahrjar/Neurodegeneration_meta-analysis/releases/latest)
 [![last commit](https://img.shields.io/github/last-commit/Schahrjar/Neurodegeneration_meta-analysis)](https://github.com/Schahrjar/Neurodegeneration_meta-analysis/commits/main)
 
-# Neurodegeneration meta-analysis
+# Neurodegeneration GWAS meta-analysis
 This is a developing platform for analysis of genotype data and GWAS summary statistics on neurodegenerative diseases. With a growing number of genotyping data on neurodegerative disorders, such as Alzheimer's and Parkinson's diseases, we aim at constructing a platform for a clean aggregation of these genotype and sumstats data to make a cohort inclusive of diverse ethnicities. This way can better visualise the spectrum of human neurodegeration.
 
 > [!NOTE]
