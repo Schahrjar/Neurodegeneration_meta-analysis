@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use our GWAS meta-analysis methods or concepts, please cite it as below."
+authors:
+- family-names: Alavi
+  given-names: Shahryar
+  orcid: "https://orcid.org/0000-0002-3484-3423"
+  affiliation: "UCL Institute of Neurology, London, UK"
+title: "Neurodegeneration_meta-analysis: a platform for meta-analysis of GWAS genotype data and summary statistics of neurodegenerative disorders"
+version: 1.0.0
+date-released: 2025-07-11
+url: "https://github.com/Schahrjar/Neurodegeneration_meta-analysis"
+license: MIT
