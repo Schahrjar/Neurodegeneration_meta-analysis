@@ -26,4 +26,4 @@ cd Neurodegeneration_meta-analysis
 
 ## 📜 Citation
 
-This tool is released prior to our manuscript submission. You may contact [Shahryar Alavi](https://schahrjar.github.io/) for permission.
+This tool is released prior to our manuscript submission. The work has been done under supervision of Dr Maryam Shoai and Prof John Hardy, at the Queen Square UCL Institute of Neurology. You may contact [Shahryar Alavi](https://schahrjar.github.io/) for permission.
