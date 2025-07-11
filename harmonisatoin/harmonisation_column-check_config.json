@@ -1,0 +1,6 @@
+{
+  "data_dir": "../neurodegeneration/summary_statistics/meta-analysis/cognitive-motor/SumStats",
+  "harmonised_map_file": "../neurodegeneration/summary_statistics/meta-analysis/cognitive-motor/harmonised_column_names.json",
+  "output_metadata_file": "../neurodegeneration/summary_statistics/meta-analysis/cognitive-motor/SumStats/sumstats_harmonised-columns.json",
+  "log_file": "../neurodegeneration/summary_statistics/meta-analysis/cognitive-motor/SumStats/harmonisation.log"
+}
