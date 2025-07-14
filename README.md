@@ -36,4 +36,6 @@ In sumstats where there are multiple columns for the same info, the tool takes t
 
 ## 📜 Citation
 
-This tool is released prior to our manuscript submission. This work has been done under supervision of Dr Maryam Shoai and Prof John Hardy, at the UCL Queen Square Institute of Neurology. You may contact [Shahryar Alavi](https://schahrjar.github.io/) for permission.
+This tool is released prior to our manuscript submission. This work has been done under supervision of Dr Maryam Shoai and Prof John Hardy, at the UCL Queen Square Institute of Neurology. Our lab page is here:
+https://github.com/Hardy-Lab-Statistical-Genetics
+
